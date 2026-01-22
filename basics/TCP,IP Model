@@ -1,0 +1,21 @@
+TCP/IP- The TCP/IP model is a layered networking framework that explains how data is communicated between devices over a network using standardized protocols to ensure reliable and efficient transmission.
+
+#4-LAYER ARCHITECTURE
+Application	Layer-(OSI 7, 6, 5)
+Transport	Layer-(OSI 4)
+Internet Layer-(OSI 3)
+Network Access Layer-(OSI 2, 1)
+
+# Why TCP/IP?
+1.Practical
+2.Used on Internet
+3.Faster & simpler
+
+# HOW DATA ACTUALLY FLOWS
+->Sender side
+Application → Transport → Network → Physical
+
+->Receiver side
+Physical → Network → Transport → Application
+
+This is called Encapsulation & Decapsulation.
