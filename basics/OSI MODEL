@@ -1,0 +1,25 @@
+OSI- Open Systems Interconnection Model is a set of rules that explains how different computer systems communicate over a network.
+
+# 7-Layer Architecture:
+
+Trick to remember: A P S T N D P (All People Seem To Need Data Processing)
+
+7	Application Layer - Apps you use (Browser, Email)
+6	Presentation Layer - Format, Encryption/Decryption
+5	Session Layer - Starts & ends connection
+4	Transport Layer - Reliable delivery (TCP/UDP)
+3	Network Layer - Path & IP address
+2	Data Link Layer - MAC address, frames
+1	Physical Layer - Cables, signals
+
+# Why OSI Model?
+Networking is complex, so OSI breaks it into layers to make it:
+1.Easier to understand
+2.Easier to design
+3.Easier to troubleshoot
+
+Example:
+When you send a WhatsApp message:
+Layer 7: WhatsApp app
+Layer 4: Makes sure message reaches
+Layer 1: Converts to signals (Wi-Fi)
