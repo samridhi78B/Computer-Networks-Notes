@@ -26,3 +26,18 @@ Imagine no networks:
 3. Resource Sharing → printer, storage, internet  
 4. Cost Saving → shared internet & devices  
 5. Remote Access → access things from anywhere  
+
+
+# SOME FUNCTIONS OF COMPUTER NETWORK
+1.Addressing → Who is sending? Who is receiving?
+2.Routing → Best path for data
+3.Error Detection → Did data get corrupted?
+4.Flow Control → Control speed of data
+5.Security → Prevent unauthorized access
+6.Reliability → Ensure data reaches safely
+
+~Think of data like a courier parcel:
+Address written → IP Address
+Path chosen → Routing
+Damaged parcel check → Error detection
+Speed control → Flow control
