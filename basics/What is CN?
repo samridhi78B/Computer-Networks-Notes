@@ -1,25 +1,28 @@
-**WHAT IS A COMPUTER NETWORK?**
+# WHAT IS A COMPUTER NETWORK?
+
 A Computer Network is when two or more devices are connected so they can:
-1.Share data
-2.Share resources
-3.Communicate with each other
+1. Share data  
+2. Share resources  
+3. Communicate with each other  
 
-**Points to Remember**
-It is a 2-way communication.
-Client and server are present in different machines but feels in same machine.
-They are physically seprated.
+# Points to Remember
 
+It is a 2-way communication.  
+Client and server are present in different machines but feels in same machine.  
+They are physically separated.  
 
-**WHY DO WE NEED COMPUTER NETWORKS?**
+# WHY DO WE NEED COMPUTER NETWORKS?
+
 Imagine no networks:
-1.No internet
-2.No email
-3.No Google
-4.No Instagram 
+1. No internet  
+2. No email  
+3. No Google  
+4. No Instagram  
 
-Main purposes:
-1.Communication → chatting, video calls, email
-2.Data Sharing → files, images, videos
-3.Resource Sharing → printer, storage, internet
-4.Cost Saving → shared internet & devices
-5.Remote Access → access things from anywhere
+# Main Purposes
+
+1. Communication → chatting, video calls, email  
+2. Data Sharing → files, images, videos  
+3. Resource Sharing → printer, storage, internet  
+4. Cost Saving → shared internet & devices  
+5. Remote Access → access things from anywhere  
