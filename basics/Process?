@@ -1,0 +1,27 @@
+# What is a Process?
+A program that is currently running
+Example:
+Chrome running
+VS Code running
+
+#What is IPC?
+Interprocess Communication means Communication between two or more processes within a system.
+Example:
+1.Browser asks OS for data
+2.Music app sends audio data to speaker process
+
+#Why IPC?
+1.Processes need to share data
+2.Processes need to coordinate
+
+Note:IPC happens inside one system,
+while Computer Networks happen between different systems
+
+#What does PEER-TO-PEER (P2P) mean?
+In Peer-to-Peer, all computers are equal and act as both client & server(It is a distributed system).
+Example:
+Bluetooth file sharing
+
+#Comparison:
+P2P	- No central server, Peers share directly, Less secure	
+Client Server - Central server exists,Client requests from server, More secure
